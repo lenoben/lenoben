@@ -1,3 +1,12 @@
+Computer Engineer
+-----------------
+
+* 🌍  I'm based in Cyprus
+* ✉️  You can contact me at [lenoben002@gmail.com](mailto:lenoben002@gmail.com)
+* 🧠  I'm learning golang
+* 🤝  I'm open to collaborating on AI applications, networking, data engineering and embedded systems
+* ⚡  "Talk is cheap. Show me the code." - Linus Torvalds
+
 ### Skills
 
 <p align="left">
