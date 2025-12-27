@@ -1,8 +1,8 @@
-Computer Engineer
+Computer Scientist and Software Engineer
 -----------------
 
 * 🌍  I'm currently based in Germany
-* __Derzeit lerne ich Deutsch und bin Grundstufe 1 Student.__
+* __Derzeit lerne ich Deutsch an der Universität Heidelberg und bin Mittelstufen-1-Student.__
 * ✉️  You can contact me at [lenoben002@gmail.com](mailto:lenoben002@gmail.com)
 * 🧠  I'm currently learning distributed networking in Golang und Web assembly (c/c++ | rust library/executables on the browser)
 * 🧠  Desktop development with Tauri (sveltekit + rust), 3D CAD and modelling and animations. 🫠
