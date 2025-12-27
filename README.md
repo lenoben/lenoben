@@ -25,5 +25,15 @@ Computer Scientist and Software Engineer
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoben&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=181824&hide_border=false&locale=en&custom_title=Top%20Languages&layout=compact)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lenoben&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lenoben&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoben&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ohjohnonpaypal) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 [![](https://visitcount.itsvg.in/api?id=lenoben&icon=0&color=3)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=lenoben&label=Visitor%20Count&color=brightgreen&style=flat-square" alt="Visitors count"/>
