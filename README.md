@@ -2,16 +2,14 @@ Computer Scientist and Software Engineer
 -----------------
 
 * 🌍  I'm currently based in Germany
-* __Derzeit lerne ich Deutsch an der Universität Heidelberg und bin Mittelstufen-1-Student.__
-* ✉️  You can contact me at [lenoben002@gmail.com](mailto:lenoben002@gmail.com)
+* __Derzeit lerne ich an der Universität Heidelberg.__
+* ✉️  You can contact me at [contact@lenoben.top](mailto:contact@lenoben.top)
 * 🧠  I'm currently learning distributed networking in Golang und Web assembly (c/c++ | rust library/executables on the browser)
 * 🧠  Desktop development with Tauri (sveltekit + rust), 3D CAD and modelling and animations. 🫠
 * 🤝  I'm open to collaborating on AI applications, networking, data engineering and embedded systems
 * ⚡  "Talk is quite cheap. Could you show me the code? please" - Lee moi 🗿 
 
 # 💻 Tech Stack:
-
-
 
 | Languages | Hosting | Libraries, Platforms & Frameworks |
 |:---------:|:-------:|:---------------------------------:|
@@ -31,7 +29,8 @@ Computer Scientist and Software Engineer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lenoben&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ohjohnonpaypal) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ohjohnonpaypal)
+[![Revolut](https://img.shields.io/badge/Revolut-00457C?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/johnkelechukwu) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
