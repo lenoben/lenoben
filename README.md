@@ -1,12 +1,11 @@
 Computer Scientist and Software Engineer
 -----------------
 
-* 🌍  I'm currently based in Germany
-* __Derzeit lerne ich an der Universität Heidelberg.__
+* 🌍  __Derzeit lerne ich an der Universität Heidelberg.__
 * ✉️  You can contact me at [contact@lenoben.top](mailto:contact@lenoben.top)
 * 🧠  I'm currently learning distributed networking in Golang und Web assembly (c/c++ | rust library/executables on the browser)
-* 🧠  Desktop development with Tauri (sveltekit + rust), 3D CAD and modelling and animations. 🫠
-* 🤝  I'm open to collaborating on AI applications, networking, data engineering and embedded systems
+* 🧠  Desktop development with Tauri (sveltekit + rust), AI & API integration, 3D CAD and modelling and animations. 🫠
+* 🤝  I'm open to collaborating on AI applications, cloud & networking, data engineering and embedded systems
 * ⚡  "Talk is quite cheap. Could you show me the code? please" - Lee moi 🗿 
 
 # 💻 Tech Stack:
