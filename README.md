@@ -2,7 +2,7 @@
 
 Computer engineer building across the stack: **backend systems in Go and Rust**, **web and mobile apps**, **AI/LLM tooling**, and the occasional **embedded** project. I like small, fast, self-hostable software that I can understand top to bottom.
 
-📍 Mannheim/Heidelberg, Germany · 🌐 [lenoben.top](https://www.lenoben.top) · ✉️ [contact@lenoben.top](mailto:contact@lenoben.top)
+🌐 [lenoben.top](https://www.lenoben.top) · ✉️ [contact@lenoben.top](mailto:contact@lenoben.top)
 
 ---
 
