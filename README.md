@@ -1,23 +1,51 @@
-Computer Scientist and Software Engineer
------------------
+# Hallo 👋
 
-* 🌍  __Derzeit lerne ich an der Universität Heidelberg.__
-* ✉️  You can contact me at [contact@lenoben.top](mailto:contact@lenoben.top)
-* 🧠  I'm currently learning distributed networking in Golang und Web assembly (c/c++ | rust library/executables on the browser)
-* 🧠  Desktop development with Tauri (sveltekit + rust), AI & API integration, 3D CAD and modelling and animations. 🫠
-* 🤝  I'm open to collaborating on AI applications, cloud & networking, data engineering and embedded systems
-* ⚡  "Talk is quite cheap. Could you show me the code? please" - Lee moi 🗿 
+Computer engineer building across the stack: **backend systems in Go and Rust**, **web and mobile apps**, **AI/LLM tooling**, and the occasional **embedded** project. I like small, fast, self-hostable software that I can understand top to bottom.
 
-# 💻 Tech Stack:
+📍 Mannheim/Heidelberg, Germany · 🌐 [lenoben.top](https://www.lenoben.top) · ✉️ [contact@lenoben.top](mailto:contact@lenoben.top)
 
-| Languages | Hosting | Libraries, Platforms & Frameworks |
-|:---------:|:-------:|:---------------------------------:|
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=flat&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat&logo=tauri&logoColor=%23FFFFFF) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+---
 
+## 🛠️ Things you can use
 
-| Servers | Developer Tools | Databases | Design | ML/DL |
-|:-------:|:---------------:|:---------:|:------:|:-----:|
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) | ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) | ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) | ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
+Open-source tools and templates I maintain. Issues and PRs welcome.
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**JobHunter**](https://github.com/lenoben/jobhunter) | Local-first AI job-search agent: MCP server that finds jobs, drafts tailored applications, and tracks them in a web UI. Runs on your machine, data stays in SQLite. | Python/TS · MCP · SQLite |
+| [**Atudio**](https://github.com/lenoben) | Code-driven animation pipeline: scenes in Three.js/Remotion, rendered with FFmpeg, orchestrated by an AI agent. | Three.js · Remotion · FFmpeg |
+
+> Each repo has setup instructions, screenshots, and a demo where possible.
+
+---
+
+## 🔬 Currently exploring
+
+- **Distributed networking in Go:** peer discovery, consensus, and fault tolerance
+- **WebAssembly:** running Rust and C/C++ libraries in the browser
+- **Desktop apps with Tauri:** SvelteKit frontend + Rust core
+- **LLM integration:** MCP servers, agents, and RAG for real workflows
+
+---
+
+## 🧰 Tools I reach for
+
+| Area | Stack |
+|---|---|
+| **Backend** | Go · Rust · Python · PostgreSQL · SQLite · Redis |
+| **Web & App** | SvelteKit · Next.js · React · TypeScript · Tailwind · Flutter · Tauri |
+| **AI / Data** | PyTorch · scikit-learn · Pandas · NumPy · LLM APIs · MCP |
+| **DevOps & Cloud** | Docker · GitHub Actions · Nginx · Cloudflare · AWS |
+| **Embedded** | C/C++ · Arduino · Raspberry Pi |
+
+---
+
+## 🤝 Let's work together
+
+I'm happy to collaborate on **AI applications, backend & cloud infrastructure, data engineering, and embedded systems**. Open an issue on any repo or email me.
+I'm also open to **full-time roles** (backend, full-stack, AI/ML, DevOps) in Germany or remote. Background: B.Sc. Computer Engineering.
+
+<sub>"Talk is cheap. Show me the code." — Linus Torvalds</sub>
 
 ## 📊 GitHub Statistics
 
@@ -39,23 +67,9 @@ Computer Scientist and Software Engineer
   </a>
 </p>
 
-<!--
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=lenoben&theme=transparent&hide_border=true&include_all_commits=false&langs_count=10&count_private=false&layout=compact)
--->
 <br>
 
-
-
-## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@llenoben)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ohjohnonpaypal)
-<!--
-[![Revolut](https://img.shields.io/badge/Revolut-00457C?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/johnkelechukwu)  -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://visitcount.itsvg.in/api?id=lenoben&icon=0&color=3)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=lenoben&label=Visitor%20Count&color=brightgreen&style=flat-square" alt="Visitors count"/>
